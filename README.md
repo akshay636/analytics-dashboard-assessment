@@ -95,7 +95,7 @@ Your submission will be evaluated based on:
 
 
 ## Live Dashboard
-Add your deployed dashboard URL here: `[YOUR_DEPLOYED_URL]`
+Add your deployed dashboard URL here: `https://analytics-dashboard-assessment-xi.vercel.app/`
 
 ## Repository Access
 Keep your repository private. Add the following emails as collaborators:
